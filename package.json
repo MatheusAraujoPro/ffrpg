@@ -31,8 +31,5 @@
   },
   "jest": {
     "preset": "react-native"
-  },
-  "scripts":{
-    "jetify": "npx jetify"
-  }
+  }  
 }

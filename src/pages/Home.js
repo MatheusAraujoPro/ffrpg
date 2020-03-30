@@ -53,7 +53,7 @@ export default function Home(props) {
                 <View style={styles.sectionContainer}>
                   <Text style={styles.sectionTitle}>Learn More</Text>
                   <Text style={styles.sectionDescription}>
-                    Read the docs to discover what to do next:
+                    Consegui essa porra carai
                   </Text>
                 </View>
                 <LearnMoreLinks />
